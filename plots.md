@@ -2,17 +2,22 @@ All the NFL data is disregarding lineman.
 
 Obviously a better method would be to normalize the data in some way according to height and weight, but I just wanted to take a quick look.
 
-![NBA Max Verticals](./nba1.png)
+NBA data is 2009 to 2017, containing 517 athletes.
 
-![NBA Standing Verticals](./nba2.png)
+NFL data is 1999 to 2015, containing 4946 athletes.
 
-![NFL Standing Verticals](./nfl1.png)
 
-![NBA 25yd Dash](./nba3.png)
+![NBA Max Verticals](./plots/nba1.png)
 
-![NFL 10yd Dash](./nfl2.png)
+![NBA Standing Verticals](./plots/nba2.png)
 
-![NBA 40yd Dash](./nfl3.png)
+![NFL Standing Verticals](./plots/nfl1.png)
+
+![NBA 25yd Dash](./plots/nba3.png)
+
+![NFL 10yd Dash](./plots/nfl2.png)
+
+![NBA 40yd Dash](./plots/nfl3.png)
 
 A 40" vertical is the
 89.33'th percentile
